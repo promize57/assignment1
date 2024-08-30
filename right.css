@@ -1,0 +1,48 @@
+.right-bg-container{
+  display:inline-block;
+  background-color:rgb(253, 253, 243);
+  padding-right:80px;
+  
+  
+}
+.bg-picture{
+  padding-bottom:0px;
+}
+
+.right-header1{
+  padding-top:0;
+  width:400px;
+  padding-left:200px;
+  font-size: 20px;
+
+
+}
+.image-main-container{
+  width:200px;
+  height:30px;
+  margin-left:257px;
+  margin-top:0;
+  display:flex;
+  
+  
+}
+
+.images{
+  width:20px;
+  padding-top:5px;
+  
+}
+.image-container{
+  flex:2;
+}
+.telephone{
+  color:rgb(102, 95, 95);
+  margin-left:290px;
+
+}
+.refrence{
+  font-size:17px;
+  font-weight: bold;
+  margin-left:210px;
+  margin-bottom:30px;
+}
