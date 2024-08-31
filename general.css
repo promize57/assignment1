@@ -3,3 +3,65 @@
   flex-direction:row;
   
 }
+.IDcard{
+  width:200px;
+
+}
+.idcard-container{
+  margin-left:300px;
+  display:inline-block;
+}
+.m-section{
+  display:inline-block;
+  display:flex;
+  flex-direction:column;
+  
+  
+}
+.section-container{
+  display:inline-block;
+  margin-left:80%
+}
+table{
+  bacKground-color:rgba(128, 128, 128, 0.486);
+  height:150px;
+  margin-left:50px;
+  margin-top: 60px;;
+}
+thead{
+  background-color:skyblue;
+  border-style:solid;
+  border-color:black;
+  border-width:2px;
+  padding-bottom:20px;
+}
+tbody{
+  background-color: skyblue;
+}
+.button-cover{
+  background-color:white;
+
+}
+.super-box{
+  display:flex;
+  flex-direction:column;
+  display:inline-block;
+  width:300px;
+  border-color:black;
+  border-style:solid;
+  background-color:skyblue;
+  margin-right:50px;
+  margin-left:110px;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+.pic-container{
+  width:80px;
+}
+.memory{
+  width:300px;
+}
+.short-story{
+  padding-left:20px;
+  font-weight:20px;
+}
